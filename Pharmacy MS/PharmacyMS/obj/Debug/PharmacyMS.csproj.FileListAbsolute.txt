@@ -1,0 +1,15 @@
+D:\Test\PharmacyMS\PharmacyMS\obj\Debug\PharmacyMS.csprojAssemblyReference.cache
+D:\Test\PharmacyMS\PharmacyMS\obj\Debug\PharmacyMS.Properties.Resources.resources
+D:\Test\PharmacyMS\PharmacyMS\obj\Debug\PharmacyMS.csproj.GenerateResource.cache
+D:\Test\PharmacyMS\PharmacyMS\obj\Debug\PharmacyMS.csproj.CoreCompileInputs.cache
+D:\Test\PharmacyMS\PharmacyMS\obj\Debug\PharmacyMS.Dashboard.resources
+D:\Test\PharmacyMS\PharmacyMS\bin\Debug\PharmacyMS.exe.config
+D:\Test\PharmacyMS\PharmacyMS\bin\Debug\PharmacyMS.exe
+D:\Test\PharmacyMS\PharmacyMS\bin\Debug\PharmacyMS.pdb
+D:\Test\PharmacyMS\PharmacyMS\obj\Debug\PharmacyMS.exe
+D:\Test\PharmacyMS\PharmacyMS\obj\Debug\PharmacyMS.pdb
+D:\Test\PharmacyMS\PharmacyMS\obj\Debug\PharmacyMS.AddMedicine.resources
+D:\Test\PharmacyMS\PharmacyMS\obj\Debug\PharmacyMS.Admin.resources
+D:\Test\PharmacyMS\PharmacyMS\obj\Debug\PharmacyMS.Form1.resources
+D:\Test\PharmacyMS\PharmacyMS\obj\Debug\PharmacyMS.ViewMedicine.resources
+D:\Test\PharmacyMS\PharmacyMS\obj\Debug\PharmacyMS.ModifyMedicine.resources
